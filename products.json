@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "sku": "o",
+    "name": "Wireless Headphones",
+    "description": "Easy to use — wireless over-ear headphones with long battery life.",
+    "price": 2400,
+    "stock": 5,
+    "image": "images/o.png"
+  },
+  {
+    "id": 2,
+    "sku": "p",
+    "name": "USB-C Powerbank 20,000mAh",
+    "description": "High capacity powerbank with fast charging and dual ports.",
+    "price": 950,
+    "stock": 12,
+    "image": "images/p.png"
+  },
+  {
+    "id": 3,
+    "sku": "j",
+    "name": "Classic Backpack",
+    "description": "Durable backpack with laptop sleeve and multiple compartments.",
+    "price": 680,
+    "stock": 8,
+    "image": "images/j.png"
+  }
+]
